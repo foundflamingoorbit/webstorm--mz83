@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains WebStorm for PC | JetBrains WebStorm for Windows with new JetBrains WebStorm for PC | JetBrains WebStorm for Windows Extension | intelligent-suggestions +
 
 
 
